@@ -6,7 +6,7 @@
 
 We are a research center focusing on **synthetic immunology**, including immune receptor engineering, programmable cytokines, and immune system modeling.
 
-🔬 Visit our website: [synthetic-immunology.github.io](https://synthetic-immunology.github.io)  
+🔬 Visit our website: [synthetic-immunology.github.io](https://csi.fudan.edu.cn)  
 📚 Explore our [publications](https://synthetic-immunology.github.io/publications)  
 👥 Meet our [team](https://synthetic-immunology.github.io/people)
 
