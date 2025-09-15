@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/WechatIMG54.jpg" width="150" />
+  <img src="assets/WechatIMG54.jpg" width="750" />
 </p>
 
 # Shanghai Engineering Research Center for Synthetic Immunology
