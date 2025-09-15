@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=" profile/assets/WechatIMG54.jpg" width="350" />
+  <img src="https://raw.githubusercontent.com/Yinglab408/.github/main/profile/assets/WechatIMG54.jpg" />
 </p>
 
 # Shanghai Engineering Research Center for Synthetic Immunology
