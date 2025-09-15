@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://synthetic-immunology.github.io/profile/WechatIMG54.jpg" width="150" />
+  <img src="https://synthetic-immunology.github.io/profile/assets/WechatIMG54.jpg" width="150" />
 </p>
 
 # Shanghai Engineering Research Center for Synthetic Immunology
